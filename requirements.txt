@@ -1,0 +1,8 @@
+streamlit
+openbadges-bakery
+jsonschema
+pillow
+numpy
+pandas
+matplotlib
+scikit-learn
